@@ -1,0 +1,56 @@
+{
+"items":[
+    {
+        "plot": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+        "fanart": "http://image.tmdb.org/t/p/original//fNG7i7RqMErkcqhohV2a6cV1Ehy.jpg",
+        "thumbnail": "http://image.tmdb.org/t/p/original//f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+        "imdb": "tt0133093",
+        "link": [
+            "https://www.youtube.com/watch?v=m8e-FF8MsqU"
+        ],
+        "season": "",
+        "episode": "",
+        "title": "The Matrix",
+        "type": "item",
+        "year": "1999",
+        "originaltitle": "The Matrix",
+        "mediatype": "movie",
+        "genre": "Action/Science Fiction",
+        "rating": "9",
+        "director": "Lilly Wachowski/Lana Wachowski/James McTeigue/Colin Fletcher/Victoria Sullivan/Tom Read/Noni Roy/Paul Sullivan/Toby Pease",
+        "duration": "136",
+        "studios": "Village Roadshow Pictures/Groucho II Film Partnership/Silver Pictures/Warner Bros. Pictures",
+        "writer": "Lilly Wachowski/Lana Wachowski",
+        "votes": "1777581",
+        "dateadded": "2021-11-18 21:42:50",
+        "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+        "content": "movie"
+    },
+    {
+        "plot": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "fanart": "http://image.tmdb.org/t/p/original//VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "thumbnail": "http://image.tmdb.org/t/p/original//2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "imdb": "tt1270797",
+        "link": [
+            "https://www.youtube.com/watch?v=u9Mv98Gr5pY"
+        ],
+        "season": "",
+        "episode": "",
+        "title": "Venom",
+        "type": "item",
+        "year": "2018",
+        "originaltitle": "Venom",
+        "mediatype": "movie",
+        "genre": "Science Fiction/Action",
+        "rating": "9",
+        "director": "K.C. Hodenfield/Ruben Fleischer/Spiro Razatos/Dea Cantu/Alina Gatti/Mari Wilson/Diane Durant/Michael Saunders",
+        "duration": "112",
+        "studios": "Avi Arad Productions/Matt Tolmach Productions/Pascal Pictures/Marvel Entertainment/Tencent Pictures",
+        "writer": "Scott Rosenberg/Scott Rosenberg/Todd McFarlane/Jeff Pinkner/Jeff Pinkner/Kelly Marcel/David Michelinie/Mike Zeck",
+        "votes": "428437",
+        "dateadded": "2021-11-18 21:42:05",
+        "trailer": "https://www.youtube.com/watch?v=u9Mv98Gr5pY",
+        "content": "movie"
+    }
+]
+}
